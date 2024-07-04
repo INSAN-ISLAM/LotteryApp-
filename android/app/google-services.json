@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929182075502",
+    "project_id": "companyapp-e3ba0",
+    "storage_bucket": "companyapp-e3ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929182075502:android:2eed2c2383e488238bf47f",
+        "android_client_info": {
+          "package_name": "com.example.KingStarApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJtV4NuvRerS7W38BtHhHNBEnDkfIKig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
